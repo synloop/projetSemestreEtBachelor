@@ -1,0 +1,121 @@
+
+Passer au contenu principal
+Cyberlearn
+IA
+2
+
+    Accueil
+    Tableau de bord
+    Mes cours
+    Support
+    CyberLearn
+    HES-SO Numérique
+
+    Ingénierie et Architecture
+    BSc Informatique et Systèmes de Communication
+    Haute école du paysage, d'ingénierie et d'architecture de Genève
+
+Communication (ISC_611 / sISC_811)
+
+    Cours
+    Participants
+    Notes
+    Plus
+
+Résumé de section
+
+    Bienvenue !
+    Tout replier
+        Annonces Forum
+    Descriptif du cours
+
+
+    Objectifs d'apprentissage
+
+    A la fin de ce cours, l'étudiant.e doit être capable de :
+
+    - rédiger un mémoire écrit selon les normes universitaires et professionnelles (structuration générale, bibliographie, typographie, etc.)
+    - faire état de son travail technique dans une présentation orale avec diaporama selon les standards professionnels.
+
+
+    Contenu
+
+    - aide à la mise en forme du mémoire du projet de semestre et retour individualisé sur sa réalisation
+    - introduction (si non encore faite) à la prise en main du logiciel de gestion bibliographique Zotero et retour individualisé sur la bibliographie du mémoire du projet de semestre
+    - aide à la préparation de la présentation orale avec diaporama du projet de semestre et retour individualisé sur sa réalisation
+
+
+    Evaluation
+
+    - mémoire écrit (50%)
+    - présentation orale (50%)
+    Présences
+        Relevé des présences
+    Documents utiles
+        01 - Consignes pour la réalisation du mémoire du projet de semestre Fichier
+
+        02 - Feuille de style pour les mémoires des projets de semestre (LaTeX, LibreOffice, Typst, Word)
+        03 - La méthode amphibie, c'est quoi ? Fichier PDF
+        04 - Quelques éléments et termes techniques pour le panorama de vos sources (fonction 2 de l'introduction) Fichier PDF
+        05 - Guide (abrégé) pour la rédaction de votre bibliographie avec Zotero Fichier PDF
+        06 - Méthode de citation et de rédaction d'une bibliographie (HES-SO, 2015) Fichier
+        07 - Lexique des règles typographiques (Imprimerie nationale française, 2002) Fichier
+        08 - Grille de notation des mémoires des projets de semestre Fichier
+        09 - Consignes pour la préparation de la défense de votre projet de semestre Fichier
+        10 - Grille de notation des défenses des projets de semestre Fichier
+
+
+        Ci-dessous, vous trouverez également les informations nécessaires à l'installation d'un VPN sur votre ordinateur (Windows et MacOS seulement malheureusement) qui vous permettra d'accéder aux ressources de la bibliothèque depuis et hors HEPIA. N'oubliez pas de vous connecter avec l'identifiant "SID" plutôt qu'"étudiant.e" si ça ne fonctionnait pas.
+        Manuel d'installation et de configuration d'un VPN Fichier
+
+
+        Pour rappel :
+
+        1/ Le site de la bibliothèque de HEPIA et ses ressources triées par filière, dont la nôtre. Un nouveau service - Book a librarian ! (un créneau de 30 minutes avec un-e documentaliste - est également maintenant à votre disposition pour vos questions concernant votre recherche bibliographique ou concernant Zotero. N'hésitez pas à l'utiliser !
+
+        2/ Son catalogue appelé swisscovery qui donne accès aux ressources électroniques et papier de plus de 100 bibliothèques sur tout le territoire suisse et dont le prêt interbibliothèque est gratuit (n'oubliez pas en amont de faire valider votre compte au guichet de la bibliothèque pour que vous soyez autorisé-e à emprunter, et de vous identifier sur le site du catalogue avec vos login et mot de passe AAI)
+
+        3/ Sur le site de la HES-SO (vous pouvez aussi passer par swisscovery), vous trouverez un nombre conséquent de bases de données d'ebooks, d'articles scientifiques et presse (depuis chez vous ou depuis l'école mais avec un autre ordinateur que ceux d'HEPIA, n'oubliez pas de vous logger avec votre VPN). Vous y trouverez par exemple les différentes publications d'IEEE, des dizaines de publications majeures dans le champ de l'informatique et des réseaux, ou encore Factiva, la plus importante base de données de presse qui donne accès à presque toutes les archives des principaux médias dans le monde.
+
+        4/ L'indispensable plateforme d'articles et d'ouvrages scientifiques toutes disciplines et domaines confondus Google Scholar
+
+        5/ Enfin, les plateformes pirates Sci-hub et Libgen (pour les livres) très utilisées par tous les chercheuses et chercheurs du monde entier (les URL peuvent changer et VPN obligatoire pour une connexion depuis un autre pays que la Suisse)
+
+        6/ L'espace de téléchargement du logiciel de gestion bibliographique Zotero avec lequel je vous demande de réaliser votre bibliographie. N'oubliez pas, pour que tout fonctionne comme il faut, d'installer le plugin du logiciel dans votre éditeur de texte (c'est ici) ainsi que celui conçu pour votre navigateur Web appelé Zotero Connector. Comme indiqué en cours, merci aussi d'utiliser la norme internationale ISO-690 pour la mise en forme de la bibliographie (norme choisie par la HES-SO) et le style particulier appelé "ISO-690 (note, no abstract, Français)" que Zotero vous demande de choisir dans les préférences dès la première utilisation : sous la liste des styles proposés par défaut, aller le chercher dans le Zotero Style Repository en cliquant sur l'onglet "Gérer les styles ..." ou "Manage styles ...". Vous pouvez toujours sinon l'importer dans Zotero depuis le Repository. N'hésitez pas enfin autant que nécessaire à vous reporter aux nombreux tutoriels qui existent sur Internet et à demander à un-e documentaliste de la bibliothèque d'HEPIA via la procédure Book a librarian! Ils-elles sont là pour ça !
+    Etape 1 (03/12 pour les étudiant-e-s du jour) / .../12 pour les étudiant-e-s du soir) - Présentation des objectifs du cours et des documents utiles
+
+
+
+    1/ Détail des objectifs du cours, de son déroulement et des modalités d'évaluation
+
+    2/ Rapport du projet de semestre : présentation de la feuille de style fournie (structuration, typographie, etc.) et présentation de la grille d'évaluation
+
+    3/ Présentation orale avec diaporama : rappel des principales recommandations et présentation de la grille d'évaluation
+
+    4/ Rappel de l'importance du logiciel de gestion bibliographique Zotero
+    Etape 2 (27 mars pour les étudiant-e-s du jour et du soir) : dépôt des rapports
+
+
+    Pour moi, en plus de l'exemplaire que vous destinez à vos encadrant.e.s, le rapport sera rendu le 27 mars (étudiant-e-s du jour et soir) avant minuit dans l'espace de dépôt ci-dessous (après, l’espace sera fermé). Attention : si vous n'aviez pas la possibilité de me rendre un rapport n'excédant pas 500 Mo (taille limite pour CyberLearn), j'accepte exceptionnellement que vous me les envoyiez par mail via un service d'envoi de gros fichiers : thomas.perrot@hesge.ch. Toujours si vous n'aviez pas le choix, merci aussi d'uploader dans l'espace de dépôt la page de garde de votre rapport, pour que je puisse rapidement voir si vous avez rendu votre travail ou pas.
+
+    Toutes les recommandations pour rédiger votre rapport, la feuille de style (en format LaTeX, LibreOffice, Typst et Word) ainsi que la grille d'évaluation sont ci-dessus dans la rubrique "Documents utiles".
+        Espace de dépôt des rapports étudiant-e-s du jour (deadline : 27 mars 23:59) Devoir
+        Espace de dépôt des rapports étudiant-e-s du soir (deadline : 27 mars 23:59) Devoir
+    Etape 3 (30 mars - 30 avril) : défenses de vos projets de semestre (captation vidéo, évaluation et retour individualisé sur le moment)
+
+
+    Devant votre encadrant.e et au moins un.e autre enseignant.e de votre orientation, vous viendrez défendre votre travail en faisant une présentation orale avec diaporama de celui-ci. Toutes les recommandations et la grille d'évaluation sont ci-dessus dans la rubrique "Documents utiles".
+    Etape 4 (mi-juin) : retour collectif et individualisé sur vos rapports
+
+
+    Au moment où vous commencerez sérieusement à penser à votre mémoire de projet de bachelor (aux alentours de mi-juin), nous nous retrouverons pour une séance où je vous remettrai vos rapports de projet de semestre corrigés (vous aurez eu la note mi-avril). Je vous ferai un retour global et je serai à votre disposition dans la foulée pour répondre à toutes vos questions de manière individualisée.
+
+Rejoignez-nous!
+Politiques
+Obtenir l’app mobile
+
+		
+		
+		
+		
+	
